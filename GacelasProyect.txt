@@ -1,0 +1,16 @@
+GACELAS PROYECT
+
+1er Sprint
+
+-Para esta etapa montaremos los servicios DNS, Web y e-mail; Este último con un servidor
+ de postfix y lo haremos con el agente de usuario squirrelmail. Esto estará en  los contenedores.
+
+2do Sprint
+
+-Se creará el front-end de la página para que los usuarios puedan ver el
+ diseño de esta. Se hará con html, css y javascript.
+
+Final, final no va más
+
+-Se entregará la aplicación funcional. Será una red social en la cual todos
+ los integrantes podrán interactuar con cada uno de ellos ya que se podrá     postear cuanta distancia se recorrió al día, montar imágenes de su día, entre otras cosas un juego para que se entretengan como un concentrese.
